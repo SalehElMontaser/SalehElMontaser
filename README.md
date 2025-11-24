@@ -12,7 +12,7 @@ I am a student passionate about open source and software engineering. I'm curren
 
 | Project Name | Description | Tech Used |
 | :--- | :--- | :--- |
-| [**Study Notes**](LINK) | My notes on CS50 and Algorithms | Markdown, Python |
+| [**Study Notes**](main) | My notes on CS50 and Algorithms | Markdown, Python |
 | [**ToDo App**](LINK) | Simple task manager | JavaScript, HTML/CSS |
 | [**Weather API**](LINK) | Fetches live weather data | Python, Flask |
 
