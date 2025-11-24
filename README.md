@@ -12,7 +12,7 @@ I am a student passionate about open source and software engineering. I'm curren
 
 | Project Name | Link | Tech Used |
 | :--- | :--- | :--- |
-| [**Python SnakeGame**] |https://github.com/SalehElMontaser/SnakeGame.git| Markdown, Python |
+| **Python SnakeGame** |https://github.com/SalehElMontaser/SnakeGame.git| Markdown, Python |
 ---
 
 ### ⚡ Fun Fact
