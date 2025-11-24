@@ -10,9 +10,9 @@ I am a student passionate about open source and software engineering. I'm curren
 
 ### 📚 My Project Hub
 
-| Project Name | Description | Tech Used |
+| Project Name | Link | Tech Used |
 | :--- | :--- | :--- |
-| [**Python SnakeGame**] |(https://github.com/SalehElMontaser/SnakeGame.git)| Markdown, Python |
+| [**Python SnakeGame**] |https://github.com/SalehElMontaser/SnakeGame.git| Markdown, Python |
 | [**ToDo App**](LINK) | Simple task manager | JavaScript, HTML/CSS |
 | [**Weather API**](LINK) | Fetches live weather data | Python, Flask |
 
