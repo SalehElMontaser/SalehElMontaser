@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello world! 🌍 I'm Saleh El-Montaser
 
-<!--
-**SalehElMontaser/SalehElMontaser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student passionate about open source and software engineering. I'm currently documenting my coding journey here on GitHub.
 
-Here are some ideas to get you started:
+*   🔭 I’m currently working on **App Development Project**
+*   🌱 I’m currently learning **Data Structures and Algorithms**
+*   👯 I’m looking to collaborate on **Beginner friendly open-source projects**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📚 My Project Hub
+
+| Project Name | Description | Tech Used |
+| :--- | :--- | :--- |
+| [**Study Notes**](LINK) | My notes on CS50 and Algorithms | Markdown, Python |
+| [**ToDo App**](LINK) | Simple task manager | JavaScript, HTML/CSS |
+| [**Weather API**](LINK) | Fetches live weather data | Python, Flask |
+
+---
+
+### ⚡ Fun Fact
+I can center a Div without Googling it (sometimes).
